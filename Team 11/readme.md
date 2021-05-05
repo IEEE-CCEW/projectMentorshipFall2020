@@ -14,14 +14,15 @@ Dr. Mrudul Dixit
 
 
 
-### Abstract : 
+### Abstract: 
+Increasingly, healthcare is becoming remote. Through  Online clinics its hard to gauge the intensity of pain. Pain being qualitative is difficult to measure and assess, especially because self reporting may have discrepancies due to hesitations, or fear of severe diseases in elderly, while verbal reporting may not be possible in infants /unconscious patients and for differently abled, mobility can be an issue.
 
 
-### Dataset
+### Dataset:
 https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 
- ### Deliverables
+ ### Deliverables:
  1. Final Presentation
  2. Video Presentation
  3. Literature Survey / Research Papers
@@ -30,9 +31,9 @@ https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
  6. Dataset
  
 
- ### Drive Link
+ ### Drive Link:
  https://drive.google.com/drive/folders/1vLbfr1uGPEgb8TIa-6eFd7MyfCY10950?usp=sharing
  
  
- ### Video Link
+ ### Video Link:
  https://drive.google.com/drive/folders/1epfFPgrWx6Ep1hUwoGG4wbYyMnmOCQHT?usp=sharing
