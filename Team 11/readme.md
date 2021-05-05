@@ -1,12 +1,18 @@
-Hey Team 11 here !
+Hello Team 11 here !
 
-## Project : Pain Indicator based on facial image recognisation.
+## Project : Pain Indicator based on facial image recognition.
 
 ### Team Members:
 1. Jahanvi Singh 
 2. Shruti Swami
 3. Saili Shinde
 4. Kanchan Bhale
+
+** Under the Guidance of :-
+Dr. Mrudul Dixit
+(Electronics & Telecommunications Dept.) **
+
+
 
 ### Abstract : 
 
