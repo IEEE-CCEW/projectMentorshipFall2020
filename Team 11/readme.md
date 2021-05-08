@@ -15,7 +15,7 @@ Dr. Mrudul Dixit
 
 
 ### Abstract: 
-Increasingly, healthcare is becoming remote. Through  Online clinics its hard to gauge the intensity of pain. Pain being qualitative is difficult to measure and assess, especially because self reporting may have discrepancies due to hesitations, or fear of severe diseases in elderly, while verbal reporting may not be possible in infants /unconscious patients and for differently abled, mobility can be an issue.
+Increasingly, healthcare is becoming remote. Through  Online clinics its hard to gauge the intensity of pain. Pain being qualitative is difficult to measure and assess, especially because self reporting may have discrepancies due to hesitations, or fear of severe diseases in elderly, while verbal reporting may not be possible in infants/unconscious patients and for differently abled, mobility can be an issue. Therefore, a pain indicator based on facial image recognition is the need of the hour.
 
 
 ### Dataset:
